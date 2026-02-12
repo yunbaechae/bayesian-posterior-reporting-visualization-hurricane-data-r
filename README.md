@@ -19,7 +19,7 @@ This assignment focused on Bayesian posterior estimation and visualization for h
   (Original .Rmd source file is no longer available, but the PDF preserves all code, posteriors, plots, and explanations.)
 
 ## Files
-- [Assignment2.pdf](Assignment2.pdf) → Full report with Bayesian models, posteriors, visualizations, and conclusions  
+- [Yunbae_Chae_42809037.pdf](Yunbae_Chae_42809037.pdf) → Full assignment submission with Bayesian models, posteriors, plots, and conclusions   
 
 ## Date
 2023
